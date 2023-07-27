@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 # Site Settings
 locale                   : "en-US"
-title                    : "Marcos Agnoletto"
+title                    : "Marcos Agnoletto Forte"
 title_separator          : "-"
 name                     : "Marcos Agnoletto"
 url                      : https://marcosagnoletto.github.io 
@@ -61,7 +61,6 @@ plugins:
 author:
   name             : 
   avatar           : "profile.jpg"
-  circular_avatar  :  "true"
   bio              : 
   location         : "São Paulo - Brazil"
   email            : "marcos.agnoleto@gmail.com" 
