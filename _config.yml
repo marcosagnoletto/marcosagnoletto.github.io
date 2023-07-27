@@ -61,6 +61,7 @@ plugins:
 author:
   name             : 
   avatar           : "profile.jpg"
+  circular_avatar  :  "true"
   bio              : 
   location         : "São Paulo - Brazil"
   email            : "marcos.agnoleto@gmail.com" 
