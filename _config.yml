@@ -112,5 +112,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-    blanklines: false
-    profile: false
+  blanklines: false
+  profile: true
