@@ -4,7 +4,9 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<link rel="stylesheet" href="/assets/fontawesome/css/fontawesome.min.css"/>
+ <link href="/assets/fontawesome/css/fontawesome.css" rel="stylesheet">
+ <link href="/assets/fontawesome/css/brands.css" rel="stylesheet">
+ <link href="/assets/fontawesome/css/solid.css" rel="stylesheet">
 
 <link rel="stylesheet" href="/assets/css/academicons.min.css"/>
 
@@ -33,16 +35,16 @@
         <li><a href="mailto:{{ author.email }}"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="fab fa-researchgate fa-fw" aria-hidden="true"></i> ResearchGate</a></li>
+        <li><a href="{{ author.researchgate }}"><i class="fa-brands fa-researchgate fa-fw" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-linkedin fa-fw" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
       {% if author.instagram %}
-        <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+        <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fa-brands fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
       {% endif %}
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-github fa-fw" aria-hidden="true"></i> Github</a></li>
+        <li><a href="https://github.com/{{ author.github }}"><i class="fa-brands fa-github fa-fw" aria-hidden="true"></i> Github</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-stack-overflow fa-fw" aria-hidden="true"></i> Stackoverflow</a></li>
