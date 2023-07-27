@@ -57,14 +57,44 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Site Author
 author:
-  name   : "Marcos Agnoletto"
-  avatar : "/images/profile.jpg"
-  bio    : 
-  links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/agnolettoforte"
+  name             : 
+  avatar           : "profile.jpg"
+  bio              : 
+  location         : 
+  employer         :  
+  pubmed           : 
+  googlescholar    : 
+  email            : "marcos.agnoleto@gmail.com"
+  researchgate     :  
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "marcosagnoletto"
+  google_plus      :
+  keybase          :
+  instagram        : "agnolettoforte"
+  impactstory      : 
+  lastfm           :
+  linkedin         :
+  orcid            : "https://orcid.org/0009-0008-4032-5287"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+  lattes           : "http://lattes.cnpq.br/8783601580222619"
 
 # Defaults
 defaults:
