@@ -62,38 +62,16 @@ author:
   name             : 
   avatar           : "profile.jpg"
   bio              : 
-  location         : 
-  employer         :  
-  pubmed           : 
-  googlescholar    : 
-  email            : "marcos.agnoleto@gmail.com"
-  researchgate     :  
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "marcosagnoletto"
-  google_plus      :
-  keybase          :
-  instagram        : "agnolettoforte"
-  impactstory      : 
-  lastfm           :
+  location         : "São Paulo - Brazil"
+  email            : "marcos.agnoleto@gmail.com" 
+  researchgate     :
   linkedin         :
-  orcid            : "https://orcid.org/0009-0008-4032-5287"
-  pinterest        :
-  soundcloud       :
+  instagram        : "agnolettoforte"
+  github           : "marcosagnoletto"
   stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
-  wikipedia        :
+  googlescholar    : 
+  orcid            : "https://orcid.org/0009-0008-4032-5287"
   lattes           : "http://lattes.cnpq.br/8783601580222619"
 
 # Defaults
