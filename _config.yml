@@ -84,3 +84,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
