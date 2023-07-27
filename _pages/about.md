@@ -1,8 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "Marcos Agnoletto Forte"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a Matematics Ph.D. candidate at Federal University of ABC where I am fortunate to be advised by [Prof. Stefano Nardulli](http://professor.ufabc.edu.br/~stefano.nardulli/index.html), [Prof. Márcio Fabiano](http://lattes.cnpq.br/7618767393745018) da Silva and [Prof. Paolo Piccione](https://www.ime.usp.br/~piccione/).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My primary areas of research interest include **geometric measure theory**, **geometric analysis** and **calculus of variations**. Secondary, I am interested in **stereology** and **general relativity**.
