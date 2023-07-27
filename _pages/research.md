@@ -9,5 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-  Página de publicações.
+# Academic Works
+
+Optimal isomerimetric inequality in Cartan-Hadamard manifolds and the Aubin's conjecture. 
+
+Master thesis, Federal University of ABC, 2022
+
+[PDF]()
 
