@@ -30,7 +30,7 @@
         <li><i class="fab fa-map-marker fa-fw" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fa-solid fa-envelope"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fab fa-envelope fa-fw" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-researchgate fa-fw" aria-hidden="true"></i> ResearchGate</a></li>
