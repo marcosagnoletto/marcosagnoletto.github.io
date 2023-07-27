@@ -85,9 +85,9 @@ defaults:
       layout: single
       author_profile: true
 
-# Html minify
+# HTML Compression
+# - http://jch.penibelst.de/
 compress_html:
   clippings: all
-  comments: all
-  endings: []
-  profile: false
+  ignore:
+    envs: development
