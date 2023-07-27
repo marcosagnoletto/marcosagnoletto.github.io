@@ -15,5 +15,5 @@ Optimal isomerimetric inequality in Cartan-Hadamard manifolds and the Aubin's co
 
 Master thesis, Federal University of ABC, 2022
 
-[PDF]({{ site.baseurl }}/files/Curriculum.pdf) [Slides]({{ site.baseurl }}/files/Curriculum.pdf)
+[PDF]({{ site.baseurl }}/files/research/academic_works/Master_s Degree dissertation.pdf) [Slides]({{ site.baseurl }}/files/Curriculum.pdf)
 
