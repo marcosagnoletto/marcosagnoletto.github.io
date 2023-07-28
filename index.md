@@ -1,8 +1,8 @@
 ---
 layout: single
 permalink: /
-title: "Marcos Agnoletto"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
