@@ -13,12 +13,12 @@ redirect_from:
 
 > **Non-Euclidean geometry**.<br>
 Federal University of ABC.<br>
-02/2022 - 05/2022.
+Feb/22 -May/22.
 
 > **Calculus II**.<br>
 Federal University of ABC.<br>
-07/2019 - 12/2019.
+Jul/19 - Dec/19.
 
 > **Calculus I**.<br>
 Federal University of ABC.<br>
-02/2019 - 06/2019.
+Feb/19 - Jun/19.
