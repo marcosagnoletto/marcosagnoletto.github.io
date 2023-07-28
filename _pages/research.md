@@ -24,6 +24,6 @@ Undergraduate research, Federal University of ABC, 2019.<br>
 [PDF]({{ site.baseurl }}/files/research/academic_works/Undergraduation research (Algebraic topology).pdf) [Poster]({{ site.baseurl }}/files/research/academic_works/Undergraduation research (Algebraic topology) - Presentation.pdf)
 
 > **Geometric probability and the integral geometry on Euclidean plane**.<br>
-Undergraduate research, Federal University of ABC, 2017.<br>
+Undergraduate research, Federal University of ABC, 2016 and 2017.<br>
 [PDF]({{ site.baseurl }}/files/research/academic_works/Undergraduation research (Integral geometry).pdf) [Poster]({{ site.baseurl }}/files/research/academic_works/Undergraduation research (Integral geometry) - Presentation.pdf)
 
