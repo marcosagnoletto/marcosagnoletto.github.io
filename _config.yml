@@ -26,7 +26,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 
 # Build settings
-markdown: kramdown
+markdown: markdown
 remote_theme: mmistakes/minimal-mistakes
 
 # Outputting
