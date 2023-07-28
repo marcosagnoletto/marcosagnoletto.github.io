@@ -9,14 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-* Feb/22 - Mar/26*: Ph.D. in Mathematics at the Federal University of ABC.
-                    * Scholarship: CAPES.
-                    * Advisors: Prof. Stefano Nardulli, Prof. Márcio Fabiano da Silva, and Prof. Paolo Piccione.
-                      *Expected.
+* Ph.D. in Mathematics at the Federal University of ABC, 2026 (expected).
+  * Scholarship: CAPES.
+  * Advisors: Stefano Nardulli, Márcio Fabiano da Silva, Prof. Paolo Piccione.              
 * Master's Degree in Mathematics at the Federal University of ABC, 2022.
-  * Master thesis: _Optimal isoperimetric inequality in Cartan-Hadamard manifolds and the Aubin's conjecture_.
-  * Advisors: Prof. Stefano Nardulli, and Prof. Márcio Fabiano da Silva.
+  * Scholarship: CAPES.
+  * Advisors: Stefano Nardulli, and Márcio Fabiano da Silva.
 * Bachelor's Degree in Mathematics at the Federal University of ABC, 2022.
-  * Bachelor thesis: _A stereological version of Gauss-Bonnet formula_.
-  * Advisor: Prof. Márcio Fabiano da Silva.
-* Bachelor's Degree in Science and Technology at the Federal University of ABC, 2018. 
+  * Scholarship: CAPES.
+  * Advisor: Márcio Fabiano da Silva and Mariana Rodrigues da Silveira.
+* Bachelor's Degree in Science and Technology at the Federal University of ABC, 2018.
+  * Scholarship: CAPES.
+  * Advisor: Márcio Fabiano da Silva.   
