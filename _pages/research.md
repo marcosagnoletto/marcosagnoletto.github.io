@@ -5,6 +5,9 @@ permalink: /research/
 author_profile: true
 redirect_from:
   - /resume
+---
+
+---
 blockquote {
 font-style: normal !important;
 }
