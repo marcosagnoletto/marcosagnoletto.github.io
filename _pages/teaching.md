@@ -13,7 +13,7 @@ redirect_from:
 
 > **Non-Euclidean geometry**.<br>
 Federal University of ABC.<br>
-Feb/22 -May/22.
+Feb/20 -May/20.
 
 > **Calculus II**.<br>
 Federal University of ABC.<br>
