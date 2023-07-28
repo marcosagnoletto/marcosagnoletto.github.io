@@ -11,7 +11,7 @@ redirect_from:
 
 # Academic Works
 
-> {\normalfont **Optimal isomerimetric inequality in Cartan-Hadamard manifolds and the Aubin's conjecture**}.<br>
+> **Optimal isomerimetric inequality in Cartan-Hadamard manifolds and the Aubin's conjecture**.<br>
 Master thesis, Federal University of ABC, 2022.<br>
 [PDF]({{ site.baseurl }}/files/research/academic_works/Master_s Degree dissertation.pdf) [Slides](files/research/academic_works/Master_s Degree dissertation - Presentation.pdf)
 
