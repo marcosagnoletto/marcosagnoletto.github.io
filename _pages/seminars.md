@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Seminars"
-permalink: /seminars/
+title: "Events"
+permalink: /events/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Conference Talks
+# Talks
 
 > **Limits of spacetimes**.<br>
 Primeiro Workshop da Pós-Graduação Integrada com a semana da FÍSICA, UNESP.<br>
