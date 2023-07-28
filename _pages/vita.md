@@ -19,7 +19,7 @@ redirect_from:
   * Scholarship: CAPES.
   * Advisors: Stefano Nardulli, and Márcio Fabiano da Silva.
 * Bachelor's Degree in Mathematics at the Federal University of ABC, 2022.
-  * Scholarship: CAPES.
+  * Scholarship: CAPES and UFABC.
   * Advisor: Márcio Fabiano da Silva and Mariana Rodrigues da Silveira.
 * Bachelor's Degree in Science and Technology at the Federal University of ABC, 2018.
   * Scholarship: CAPES.
