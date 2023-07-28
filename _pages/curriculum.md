@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Curriculum"
-permalink: /curriculum/
+title: "Vita"
+permalink: /vita/
 author_profile: true
 redirect_from:
   - /resume
