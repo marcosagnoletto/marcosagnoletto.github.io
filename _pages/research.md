@@ -7,13 +7,9 @@ redirect_from:
   - /resume
 ---
 
----
-blockquote {
-font-style: normal !important;
-}
----
-
 {% include base_path %}
+
+{%blockquote{font-style: normal !important;}%}
 
 # Academic Works
 
