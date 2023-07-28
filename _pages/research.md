@@ -19,3 +19,8 @@ Master thesis, Federal University of ABC, 2022
 [PDF]({{ site.baseurl }}/files/research/academic_works/Master_s Degree dissertation.pdf) [Slides](files/research/academic_works/Master_s Degree dissertation - Presentation.pdf)
 </blockquote>
 
+> Optimal isomerimetric inequality in Cartan-Hadamard manifolds and the Aubin's conjecture. [space][space]
+Master thesis, Federal University of ABC, 2022. [space][space]
+[PDF]({{ site.baseurl }}/files/research/academic_works/Master_s Degree dissertation.pdf) [Slides](files/research/academic_works/Master_s Degree dissertation - Presentation.pdf)
+
+
