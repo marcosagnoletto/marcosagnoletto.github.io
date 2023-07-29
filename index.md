@@ -14,3 +14,5 @@ I am a Mathematics Ph.D. candidate at the Federal University of ABC, where I am 
 My primary areas of research interest include **geometric measure theory**, **geometric analysis** and **calculus of variations**. Secondary, I am interested in **stereology** and **general relativity**.
 
 For a detailed version of my curriculum, see [here]({{ site.baseurl }}/files/Curriculum.pdf).
+
+<!---For a detailed statement of my research interests, see [here]({{ site.baseurl }}/files/), and my for my teaching beliefs and practices, see [here]({{ site.baseurl }}/files/).-->
