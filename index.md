@@ -15,4 +15,4 @@ My primary areas of research interest include **geometric measure theory**, **ge
 
 For a detailed version of my curriculum, see [here]({{ site.baseurl }}/files/Curriculum.pdf).
 
-<!---For a detailed statement of my research interests, see [here]({{ site.baseurl }}/files/), and my for my teaching beliefs and practices, see [here]({{ site.baseurl }}/files/).-->
+<!---For a detailed statement of my research interests, see [here]({{ site.baseurl }}/files/Statement_of_research_interests.pdf), and my for my teaching beliefs and practices, see [here]({{ site.baseurl }}/files/Teaching_beliefs_and_practices.pdf).-->
