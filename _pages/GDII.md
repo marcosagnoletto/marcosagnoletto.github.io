@@ -7,17 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-Eventually, I will post notes (possibly with extra exercises) of the discussions that arise during the office hours.
+Eventualmente, vou disponibilizar notas (possivelmente com exercícios extras) das discussões que surgirem durante o horário de atendimento.
 
-> [!NOTE]
-> New exercises available in the notes below! (Published at: 12/09/2023)
+<!-- > :information_source:<br> -->
+<!-- > Novos exercícios disponíveis nas notas abaixo! (Publicados em: 12/09/2023) -->
 
-# Office Hours
+# Horário de Atendimento
 
-- Monday, from 2:00 PM to 4:00 PM, in room ???
-- Wednesday, from 2:00 PM to 4:00 PM, in room ???
+- Segunda-feira, das 14:00 às 16:00, na sala ???
+- Quarta-feira, das 14:00 às 16:00, na sala ???
 
-# Attendance Notes
+# Notas
 
-- [Notes]({{ site.baseurl }}/files/Attendance_Notes.pdf)
+- [Notas]({{ site.baseurl }}/files/Attendance_Notes.pdf)
   
