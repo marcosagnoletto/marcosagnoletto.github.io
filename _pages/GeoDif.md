@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Geometria Diferencial"
-permalink: /geodif/
-author_profile: false
+permalink: /geometriadiferencialII/
+author_profile: true
 redirect_from:
   - /resume
 ---
