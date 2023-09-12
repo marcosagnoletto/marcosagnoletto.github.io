@@ -9,8 +9,8 @@ author_profile: true
 
 Eventualmente irei disponibilizar notas (possivelmente com exercícios extras) das discussões que surgirem durante o horário de atendimento.
 
-<!-- > :information_source:<br> -->
-<!-- > Novos exercícios disponíveis nas notas abaixo! (Publicados em: 12/09/2023) -->
+ > **Note**   
+ > Novos exercícios disponíveis nas notas abaixo! (Publicados em: 12/09/2023) 
 
 # Horário de Atendimento
 
