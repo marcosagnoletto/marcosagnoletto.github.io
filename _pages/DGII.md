@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Differential geometry II"
-permalink: /geometriadiferencialII/
+permalink: /GDII/
 author_profile: true
 ---
 
