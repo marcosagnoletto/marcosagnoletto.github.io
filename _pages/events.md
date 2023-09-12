@@ -27,6 +27,6 @@ November, 2017.<br>
 [Poster]({{ site.baseurl }}/files/seminars/posters/Undergraduation research (Integral geometry) - Presentation.pdf)
 
 > **Geometric probability and the integral geometry on Euclidean plane**.<br>
-X Simpósio de Iniciação Científica, UFABC.<br>
+IX Simpósio de Iniciação Científica, UFABC.<br>
 November, 2016.<br>
 [Poster]({{ site.baseurl }}/files/seminars/posters/Undergraduation research (Integral geometry) - Presentation.pdf) 
