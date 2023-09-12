@@ -9,10 +9,10 @@ author_profile: true
 
 Eventualmente irei disponibilizar notas (possivelmente com exercícios extras) das discussões que surgirem durante o horário de atendimento.
 
-> [!WARNING]     
-> Excepcionalmente na semana do dia 18/09 o atendimento será na Quarta-feira (20/09) das 14:00 às 18:00.
+> :warning: $\color{yellow}{\text{Importante}}$ :warning:       
+> Excepcionalmente na semana do dia 18/09 não haverá atendimento.
 
-> **Note**   
+> :fire: $\color{red}{\text{Novidade}}$ :fire:  
 > Novos exercícios disponíveis nas notas abaixo! (Publicados em: 12/09/2023) 
 
 # Horário de Atendimento
