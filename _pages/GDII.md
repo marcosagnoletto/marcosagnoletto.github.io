@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Differential geometry II"
+title: "Geometria Diferencial II"
 permalink: /GDII/
 author_profile: true
 ---
