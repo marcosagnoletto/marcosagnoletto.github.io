@@ -9,6 +9,9 @@ author_profile: true
 
 Eventually, I will post notes (possibly with extra exercises) of the discussions that arise during the office hours.
 
+> [!NOTE]
+> New exercises available at notes below!
+
 # Office Hours
 
 - Monday, from 2:00 PM to 4:00 PM, in room ???
