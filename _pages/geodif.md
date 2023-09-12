@@ -16,4 +16,4 @@ Eventually, I will post notes (possibly with extra exercises) of the discussions
 
 # Attendance Notes
 
--[Notes]({{ site.baseurl }}files/Attendance_Notes.pdf)
+- [Notes]({{ site.baseurl }}files/Attendance_Notes.pdf)
