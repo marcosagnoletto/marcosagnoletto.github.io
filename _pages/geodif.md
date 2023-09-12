@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Eventually, I will post notes of the discussions that arise during the office hours, as well as extra exercise lists.
+Eventually, I will post notes (possibly with extra exercises) of the discussions that arise during the office hours.
 
 # Office Hours
 
@@ -18,6 +18,3 @@ Eventually, I will post notes of the discussions that arise during the office ho
 
 -
 
-# Extra Exercise Lists
-
--
