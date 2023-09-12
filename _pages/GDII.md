@@ -17,7 +17,7 @@ Eventualmente irei disponibilizar notas (possivelmente com exercícios extras) d
 - Segunda-feira, das 14:00 às 16:00, na sala ???
 - Quarta-feira, das 14:00 às 16:00, na sala ???
 
-# Notas
+# Notas de Atendimento
 
-- [Notas]({{ site.baseurl }}/files/Notas____Estagio_Docencia___Agnoletto___Geometria_Diferencial_II.pdf) (Última atualização: 12/09/2023)
+- [Notas de Atendimento]({{ site.baseurl }}/files/Notas____Estagio_Docencia___Agnoletto___Geometria_Diferencial_II.pdf) (Última atualização: 12/09/2023)
   
