@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Eventually I will post notes of the discussions that arise during the office hours
+Eventually, I will post notes of the discussions that arise during the office hours, as well as extra exercise lists.
 
 # Office Hours
 
