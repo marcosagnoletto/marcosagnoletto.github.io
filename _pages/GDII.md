@@ -19,5 +19,5 @@ Eventualmente, vou disponibilizar notas (possivelmente com exercícios extras) d
 
 # Notas
 
-- [Notas]({{ site.baseurl }}/files/Attendance_Notes.pdf)
+- [Notas]({{ site.baseurl }}/files/Notas____Estagio_Docencia___Agnoletto___Geometria_Diferencial_II.pdf)
   
