@@ -10,7 +10,7 @@ author_profile: true
 Eventually, I will post notes (possibly with extra exercises) of the discussions that arise during the office hours.
 
 > [!NOTE]
-> New exercises available at notes below!
+> New exercises available in the notes below! (12/09/2023)
 
 # Office Hours
 
