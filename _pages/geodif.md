@@ -1,21 +1,23 @@
 ---
 layout: archive
-title: "Geometria Diferencial"
+title: "Differential geometry II"
 permalink: /geometriadiferencialII/
 author_profile: true
 ---
 
 {% include base_path %}
 
-# Horários de atendimento
+Eventually I will post notes of the discussions that arise during the office hours
 
-- Segunda-feira, das 14:00 às 16:00, na sala ???
-- Quarta-feira, das 14:00 às 16:00, na sala ???
+# Office Hours
 
-# Listas (extras) de exercícios
+- Monday, from 2:00 PM to 4:00 PM, in room ???
+- Wednesday, from 2:00 PM to 4:00 PM, in room ???
 
+# Attendance Notes
 
+-
 
+# Extra Exercise Lists
 
-
-[:arrow_left:](https://marcosagnoletto.github.io/teaching/)
+1.
