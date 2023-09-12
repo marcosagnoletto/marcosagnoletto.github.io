@@ -3,8 +3,6 @@ layout: archive
 title: "Geometria Diferencial"
 permalink: /geometriadiferencialII/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
