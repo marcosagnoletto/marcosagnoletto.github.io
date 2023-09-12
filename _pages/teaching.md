@@ -11,7 +11,7 @@ redirect_from:
 
 # Teaching Assistant
 
-> [**Differential geometry II**](https://marcosagnoletto.github.io/geodif/).<br>
+> [**Differential geometry II**](https://marcosagnoletto.github.io/geometriadiferencialII/).<br>
 Federal University of ABC.<br>
 Sept/23 - Dec/23.
 
