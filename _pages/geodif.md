@@ -16,5 +16,5 @@ Eventually, I will post notes (possibly with extra exercises) of the discussions
 
 # Attendance Notes
 
--
+-[Notes]({{ site.baseurl }}/files/research/academic_works/Undergraduation research (Algebraic topology).pdf) [Poster]({{ site.baseurl }}/files/research/academic_works/Undergraduation research (Algebraic topology) - Presentation.pdf)
 
