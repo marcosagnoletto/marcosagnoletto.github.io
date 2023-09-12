@@ -9,7 +9,7 @@ author_profile: true
 
 # Teaching Assistant
 
-> [**Differential geometry II**](https://marcosagnoletto.github.io/geometriadiferencialII/).<br>
+> [**Differential geometry II**](https://marcosagnoletto.github.io/GDII/).<br>
 Federal University of ABC.<br>
 Sept/23 - Dec/23.
 
