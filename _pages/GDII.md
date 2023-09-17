@@ -20,4 +20,5 @@ Eventualmente irei disponibilizar notas (possivelmente com exercícios extras) d
 # Notas de Atendimento
 
 - [Notas de Atendimento]({{ site.baseurl }}/files/Notas_de_atendimento___Estagio_Docencia___Agnoletto___Geometria_Diferencial_II.pdf) (Última atualização: 17/09/2023)
-- [SageMath](https://nbviewer.org/urls/marcosagnoletto.github.io/files/Geometria_diferencial_2-Aula1.ipynb) (Última atualização: 17/09/2023)
+- [Exemplo Möbius](https://nbviewer.org/github/marcosagnoletto/marcosagnoletto.github.io/blob/master/files/Geometria_diferencial_2-Aula1.ipynb)
+- [Exemplo esfera](https://nbviewer.org/github/marcosagnoletto/marcosagnoletto.github.io/blob/master/files/Geometria_diferencia_2-Aula1ExemploEsfera.ipynb)
