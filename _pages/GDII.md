@@ -19,5 +19,5 @@ Eventualmente irei disponibilizar notas (possivelmente com exercícios extras) d
 
 # Notas de Atendimento
 
-- [Notas de Atendimento]({{ site.baseurl }}/files/Notas_de_atendimento___Estagio_Docencia___Agnoletto___Geometria_Diferencial_II.pdf) (Última atualização: 12/09/2023)
+- [Notas de Atendimento]({{ site.baseurl }}/files/Notas_de_atendimento___Estagio_Docencia___Agnoletto___Geometria_Diferencial_II.pdf) (Última atualização: 17/09/2023)
   
