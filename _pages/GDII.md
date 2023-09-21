@@ -10,15 +10,14 @@ author_profile: true
 Eventualmente irei disponibilizar notas (possivelmente com exercícios extras) das discussões que surgirem durante o horário de atendimento.
 
 > :warning: $\color{orange}{\text{Importante}}$ :warning:       
-> Excepcionalmente na semana do dia 18/09 não haverá atendimento.
+> Exercício da primeira semana nas notas de atendimento.
 
 # Horário de Atendimento
 
-- Segunda-feira, das 14:00 às 16:00, na sala ???
-- Quarta-feira, das 14:00 às 16:00, na sala ???
+- Segunda-feira, das 14:00 às 16:00, na sala 305-1 
+- Quarta-feira, das 14:00 às 16:00, na sala 305-1
 
 # Notas de Atendimento
 
-- [Notas de Atendimento]({{ site.baseurl }}/files/Notas_de_atendimento___Estagio_Docencia___Agnoletto___Geometria_Diferencial_II.pdf) (Última atualização: 19/09/2023)
-- [Exemplo Möbius](https://nbviewer.org/github/marcosagnoletto/marcosagnoletto.github.io/blob/master/files/Geometria_diferencial_2-Aula1.ipynb)
-- [Exemplo esfera](https://nbviewer.org/github/marcosagnoletto/marcosagnoletto.github.io/blob/master/files/Geometria_diferencia_2-Aula1ExemploEsfera.ipynb)
+- [Notas de Atendimento]({{ site.baseurl }}/files/Notas_de_atendimento___Estagio_Docencia___Agnoletto___Geometria_Diferencial_II.pdf) (Última atualização: 21/09/2023)
+- [Notas sobre SageMath](marcosagnoletto.github.io/GDII/) (Em breve)
