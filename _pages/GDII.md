@@ -9,8 +9,8 @@ author_profile: true
 
 Eventualmente irei disponibilizar notas (possivelmente com exercícios extras) das discussões que surgirem durante o horário de atendimento.
 
-> :warning: $\color{orange}{\text{Importante}}$ :warning:       
-> Exercício da primeira semana nas notas de atendimento.
+<!-- > :warning: $\color{orange}{\text{Importante}}$ :warning:       
+> -->
 
 # Horário de Atendimento
 
