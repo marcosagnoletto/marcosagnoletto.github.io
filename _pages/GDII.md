@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Eventualmente irei disponibilizar notas (possivelmente com exercícios extras) das discussões que surgirem durante o horário de atendimento.
+Eventualmente irei disponibilizar notas das discussões que surgirem durante o horário de atendimento.
 
 <!-- > :warning: $\color{orange}{\text{Importante}}$ :warning:       
 > -->
