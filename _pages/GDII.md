@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Eventualmente irei disponibilizar notas das discussões que surgirem durante o horário de atendimento.
+Eventualmente irei disponibilizar notas das discussões que surgirem durante o horário de atendimento e notas das aulas dadas durante o estágio de docência.
 
 <!-- > :warning: $\color{orange}{\text{Importante}}$ :warning:       
 > -->
@@ -19,5 +19,5 @@ Eventualmente irei disponibilizar notas das discussões que surgirem durante o h
 
 # Notas de Atendimento
 
-- [Notas de Atendimento]({{ site.baseurl }}/files/Notas_de_atendimento___Estagio_Docencia___Agnoletto___Geometria_Diferencial_II.pdf) (Última atualização: 21/09/2023)
+- [Notas de Atendimento]({{ site.baseurl }}/files/Notas_de_atendimento___Estagio_Docencia___Agnoletto___Geometria_Diferencial_II.pdf) (Última atualização: 25/09/2023)
 - [Notas sobre SageMath](marcosagnoletto.github.io/GDII/) (Em breve)
