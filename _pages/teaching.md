@@ -9,8 +9,6 @@ author_profile: true
 
 # Teaching Assistant
 
-[Resolução simulado P1 de FUV]({{ site.baseurl }}/files/Simulado___FUV___Stefano.pdf)
-
 > [**Differential geometry II**](https://marcosagnoletto.github.io/GDII/).<br>
 Federal University of ABC.<br>
 Sept/23 - Dec/23.
