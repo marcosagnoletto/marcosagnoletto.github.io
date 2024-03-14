@@ -12,7 +12,7 @@ author_profile: true
 # Education
 * Ph.D. in Mathematics at the Federal University of ABC, 2026 (expected).
   * Scholarship: CAPES.
-  * Advisors: Stefano Nardulli, Márcio Fabiano da Silva, Paolo Piccione.              
+  * Advisors: Stefano Nardulli, Márcio Fabiano da Silva, Paolo Piccione, and Reinaldo Resende.              
 * Master's Degree in Mathematics at the Federal University of ABC, 2022.
   * Scholarship: CAPES.
   * Advisors: Stefano Nardulli, and Márcio Fabiano da Silva.
