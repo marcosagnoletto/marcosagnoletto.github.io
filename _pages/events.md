@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-On this page, you will find some slides and posters that I presented, some notes for presentations, and informal notes that I wrote during courses or other activities.
+On this page, you will find some slides and posters that I presented, and informal notes that I wrote during courses or other activities.
 
 #  Slides
 
