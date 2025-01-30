@@ -13,7 +13,7 @@ I'm a Mathematics Ph.D. candidate at the Universidade Federal do ABC, where I am
 
 Until July 2025, I'm a visiting PhD student at [Carnegie Mellon University](https://www.cmu.edu/) supervised by [Reinaldo Resende](https://www.math.cmu.edu/~rresende/). From January to June 2026, I'll be at the [Institute for Advanced Study](https://www.ias.edu/) in Princeton as a Visiting Student Research Collaborator (VSRC), supervised by [Camillo De Lellis](https://www.math.ias.edu/delellis/node/1).
 
-#Research interests
+# Research interests
 
 - Geometric Measure Theory
 - Riemannian geometry
