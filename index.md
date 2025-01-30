@@ -20,7 +20,7 @@ Until July 2025, I'm a visiting PhD student at [Carnegie Mellon University](http
 
 As an undergraduate, I studied geometric probability, integral geometry and stereology in Euclidean space. Additionally, I studied the homology of surfaces and an introduction to algebraic topology. After that, my Master's dissertation was about the isoperimetric inequality in the Cartan-Hadamard manifolds and the Aubin conjecture. 
 
-Currently, during my PhD, I am studying Allard's $\epsilon$-regularity theorem and the regularity at the boundary of $Q$-valued functions.
+Currently, during my PhD, I am studying Allard's $\varepsilon$-regularity theorem and the regularity at the boundary of $Q$-valued functions.
 
 For a detailed version of my curriculum, see [here]({{ site.baseurl }}/files/Curriculum.pdf).
 
