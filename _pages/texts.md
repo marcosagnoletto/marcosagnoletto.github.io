@@ -10,8 +10,8 @@ author_profile: true
 On this page, you will find some slides and posters that I presented, and informal notes that I wrote during courses or other activities.
 
 #  Slides
-- [Limits of spacetimes]({{ site.baseurl }}/files/seminars/conference_talks/Limites de espacos tempo - Presentation.pdf)<br>
-_Primeiro Workshop da Pós-Graduação Integrada com a semana da física_, UNESP.
+- _[Limits of spacetimes]({{ site.baseurl }}/files/seminars/conference_talks/Limites de espacos tempo - Presentation.pdf)_<br>
+Primeiro Workshop da Pós-Graduação Integrada com a semana da física, UNESP.
 
 <!-- # Posters
 
