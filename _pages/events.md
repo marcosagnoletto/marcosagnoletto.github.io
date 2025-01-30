@@ -7,9 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+On this page, you will find some slides and posters that I presented, some notes for presentations, and informal notes that I wrote during courses or other activities.
+
 #  Slides
 
-- *[Limits of spacetimes]({{ site.baseurl }}/files/seminars/conference_talks/Limites de espacos tempo - Presentation.pdf)*<br>
+- [Limits of spacetimes]({{ site.baseurl }}/files/seminars/conference_talks/Limites de espacos tempo - Presentation.pdf)<br>
 **_Primeiro Workshop da Pós-Graduação Integrada com a semana da física_**, UNESP.
 
 # Posters
@@ -29,4 +31,6 @@ IX Simpósio de Iniciação Científica, UFABC.<br>
 November, 2016.<br>
 [Poster]({{ site.baseurl }}/files/seminars/posters/Undergraduation research (Integral geometry) - Presentation.pdf)
 
-# Notes for talks
+# Notes
+
+**_These notes are informal and may contain mistakes_**
