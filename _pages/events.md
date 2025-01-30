@@ -9,7 +9,7 @@ author_profile: true
 
 #  Slides
 
-- *[Limits of spacetimes]({{ site.baseurl }}/files/seminars/conference_talks/Limites de espacos tempo - Presentation.pdf)*
+- *[Limits of spacetimes]({{ site.baseurl }}/files/seminars/conference_talks/Limites de espacos tempo - Presentation.pdf)*<br>
 **_Primeiro Workshop da Pós-Graduação Integrada com a semana da física_**, UNESP.
 
 # Posters
