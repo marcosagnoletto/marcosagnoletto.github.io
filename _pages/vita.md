@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Vita"
-permalink: /vita/
+title: "About me"
+permalink: /AboutMe/
 author_profile: true
 ---
 
