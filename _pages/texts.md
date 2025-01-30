@@ -12,10 +12,11 @@ On this page, you will find some slides and posters that I presented, and inform
 #  Slides
 - _[Limits of spacetimes]({{ site.baseurl }}/files/texts/Limites de espacos tempo - Presentation.pdf)_
 - _[Allard's $\varepsilon$-regularity theorem]({{ site.baseurl }}/files/texts/O_teorema_de_regularidade_de_Allard.pdf)_
-- _[A stereological version of Gauss-Bonnet formula]({{ site.baseurl }}/files/texts/Bachelor_s Degree dissertation - Presentation.pdf)_
-- _
+- _[A stereological version of the Gauss-Bonnet formula]({{ site.baseurl }}/files/texts/Bachelor_s Degree dissertation - Presentation.pdf)_
+- _[A optimal isoperiemtrical formula and the Aubin conjecture]({{ site.baseurl }}/files/texts/Master_s Degree dissertation - Presentation.pdf)_
 
 # Posters
+- _[]
 
 <!-- # Notes
 _These notes are informal and may contain mistakes_ -->
