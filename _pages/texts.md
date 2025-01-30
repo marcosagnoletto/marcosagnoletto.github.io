@@ -16,20 +16,14 @@ On this page, you will find some slides and posters that I presented, and inform
 
 # Posters
 
-> **Homology of surfaces**.<br>
-XII Simpósio de Iniciação Científica, UFABC.<br>
-November, 2019.<br>
-[Poster]({{ site.baseurl }}/files/seminars/posters/Undergraduation research (Algebraic topology) - Presentation.pdf)
+- [Homology of surfaces]({{ site.baseurl }}/files/seminars/posters/Undergraduation research (Algebraic topology) - Presentation.pdf)<br>
+**_XII Simpósio de Iniciação Científica_**, UFABC.
 
-> **Geometric probability and the integral geometry on Euclidean plane II**.<br>
-X Simpósio de Iniciação Científica, UFABC.<br>
-November, 2017.<br>
-[Poster]({{ site.baseurl }}/files/seminars/posters/Undergraduation research (Integral geometry) - Presentation.pdf)
+- [Geometric probability and the integral geometry on Euclidean plane II]({{ site.baseurl }}/files/seminars/posters/Undergraduation research (Integral geometry) - Presentation.pdf)<br>
+**_X Simpósio de Iniciação Científica_**, UFABC.
 
-> **Geometric probability and the integral geometry on Euclidean plane I**.<br>
-IX Simpósio de Iniciação Científica, UFABC.<br>
-November, 2016.<br>
-[Poster]({{ site.baseurl }}/files/seminars/posters/Undergraduation research (Integral geometry) - Presentation.pdf)
+- [Geometric probability and the integral geometry on Euclidean plane I]({{ site.baseurl }}/files/seminars/posters/Undergraduation research (Integral geometry) - Presentation.pdf))<br>
+**_IX Simpósio de Iniciação Científica_**, UFABC.<br>
 
 # Notes
 
