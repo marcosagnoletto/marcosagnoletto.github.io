@@ -7,12 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-# Talks
+#  Slides
 
-> **Limits of spacetimes**.<br>
-Primeiro Workshop da Pós-Graduação Integrada com a semana da física, UNESP.<br>
-January, 2023.<br>
-[Slides]({{ site.baseurl }}/files/seminars/conference_talks/Limites de espacos tempo - Presentation.pdf)
+- *[Limits of spacetimes]({{ site.baseurl }}/files/seminars/conference_talks/Limites de espacos tempo - Presentation.pdf)*
+**_Primeiro Workshop da Pós-Graduação Integrada com a semana da física_**, UNESP.
 
 # Posters
 
@@ -29,4 +27,6 @@ November, 2017.<br>
 > **Geometric probability and the integral geometry on Euclidean plane I**.<br>
 IX Simpósio de Iniciação Científica, UFABC.<br>
 November, 2016.<br>
-[Poster]({{ site.baseurl }}/files/seminars/posters/Undergraduation research (Integral geometry) - Presentation.pdf) 
+[Poster]({{ site.baseurl }}/files/seminars/posters/Undergraduation research (Integral geometry) - Presentation.pdf)
+
+# Notes for talks
