@@ -16,7 +16,8 @@ On this page, you will find some slides and posters that I presented, and inform
 - _[Optimal isomerimetric inequality in Cartan-Hadamard manifolds and the Aubin's conjecture]({{ site.baseurl }}/files/texts/Master_s Degree dissertation - Presentation.pdf)_
 
 # Posters
-- _[]
+- _[]({{ site.baseurl }}/files/texts/Undergraduation research (Integral geometry) - Presentation.pdf)_
+- _[Geometric probability and the integral geometry on Euclidean plane]({{ site.baseurl }}/files/texts/Undergraduation research (Integral geometry) - Presentation.pdf)_
 
 <!-- # Notes
 _These notes are informal and may contain mistakes_ -->
