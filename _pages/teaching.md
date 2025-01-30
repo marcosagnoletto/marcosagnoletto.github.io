@@ -9,18 +9,7 @@ author_profile: true
 
 # Teaching Assistant
 
-- **Differential geometry II**.<br>
-Federal University of ABC.<br>
-Sept/23 - Dec/23.
-
-> **Non-Euclidean geometry**.<br>
-Federal University of ABC.<br>
-Feb/20 - May/20.
-
-> **Calculus II**.<br>
-Federal University of ABC.<br>
-Jul/19 - Dec/19.
-
-> **Calculus I**.<br>
-Federal University of ABC.<br>
-Feb/19 - Jun/19.
+- _Differential geometry II_ (Sept/23 - Dec/23) at Federal University of ABC.
+- _Non-Euclidean geometry_ (Feb/20 - May/20) at Federal University of ABC.
+- _Functions of one variable_ (Jul/19 - Dec/19) at Federal University of ABC.
+- _Mathematical foundations_ (Feb/19 - Jun/19) at Federal University of ABC.
