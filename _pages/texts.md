@@ -33,4 +33,4 @@ November, 2016.<br>
 
 # Notes
 
-**_These notes are informal and may contain mistakes_**
+_These notes are informal and may contain mistakes_
