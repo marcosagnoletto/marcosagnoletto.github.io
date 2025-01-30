@@ -8,6 +8,17 @@ author_profile: true
 {% include base_path %}
 
 # Academic Works
+<ol style="list-style-type: decimal-reversed;">
+  <li>First item</li> Optimal isomerimetric inequality in Cartan-Hadamard manifolds and the Aubin's conjecture<br>
+Master thesis, Federal University of ABC, 2021.<br>
+[Text]({{ site.baseurl }}/files/research/academic_works/Master_s Degree dissertation.pdf) - [Slides]({{ site.baseurl }}/files/research/academic_works/Master_s Degree dissertation - Presentation.pdf)
+  
+  <li>Second item</li> A stereological version of Gauss-Bonnet formula<br>
+Bachelor thesis, Federal University of ABC, 2022.<br>
+[Text]({{ site.baseurl }}/files/research/academic_works/Bachelor_s Degree dissertation.pdf) - [Slides]({{ site.baseurl }}/files/research/academic_works/Bachelor_s Degree dissertation - Presentation.pdf)
+
+  <li>Third item</li>
+</ol>
 
 5. Optimal isomerimetric inequality in Cartan-Hadamard manifolds and the Aubin's conjecture<br>
 Master thesis, Federal University of ABC, 2021.<br>
