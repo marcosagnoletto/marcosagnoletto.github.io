@@ -22,4 +22,4 @@ As an undergraduate, I studied geometric probability, integral geometry and ster
 
 Currently, during my PhD, I am studying Allard's $\varepsilon$-regularity theorem and the regularity at the boundary of $Q$-valued functions.
 
-For a detailed version of my curriculum, see [here]({{ site.baseurl }}/files/Curriculum.pdf). A detailed version of my Statement of Research Interests (SRI) is available upon request.
+For a detailed version of my curriculum, see [here]({{ site.baseurl }}/files/CV.pdf). A detailed version of my Statement of Research Interests (SRI) is available upon request.
