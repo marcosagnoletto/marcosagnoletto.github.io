@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+# Preprints
+
+1. _Allard's interior $\epsilon$-Regularity Theorem in Alexandrov spaces_<br>
+(with J. C. Correa Hoyos, M. F. Da Silva, and S. Nardulli)<br>
+\[[arXiv]([https://cursos.ufabc.edu.br/images/bacharelado-em-matematica/tcc_defendidos/2022_marcos.pdf](https://arxiv.org/abs/2504.10758))\]
+   
+
 # Academic Works
 
 1. _A stereological version of Gauss-Bonnet formula_<br>
