@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a Mathematics Ph.D. candidate at Federal University of ABC, where I am fortunate to be advised by [Stefano Nardulli](http://professor.ufabc.edu.br/~stefano.nardulli/index.html), [Márcio Fabiano da Silva](http://lattes.cnpq.br/7618767393745018), [Paolo Piccione](https://www.ime.usp.br/~piccione/), and [Reinaldo Resende](https://www.math.cmu.edu/~rresende/).
 
-From January to July 2025 I was a visiting PhD student at [Carnegie Mellon University](https://www.cmu.edu/) supervised by [Reinaldo Resende](https://www.math.cmu.edu/~rresende/). From January to June 2026, I'll be at the [Scuola Normale Superiore](https://www.sns.it/it) supervised by [Luigi Ambrosio](https://cvgmt.sns.it/person/3/)
+From January to July 2025 I was a visiting PhD student at [Carnegie Mellon University](https://www.cmu.edu/) supervised by [Reinaldo Resende](https://www.math.cmu.edu/~rresende/). From January to June 2026, I'll be at the [Scuola Normale Superiore](https://www.sns.it/it) supervised by [Luigi Ambrosio](https://cvgmt.sns.it/person/3/).
 
 # Research interests
 
