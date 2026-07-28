@@ -9,17 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Mathematics Ph.D. candidate at Federal University of ABC, where I am fortunate to be advised by [Stefano Nardulli](http://professor.ufabc.edu.br/~stefano.nardulli/index.html), [Márcio Fabiano da Silva](http://lattes.cnpq.br/7618767393745018), [Paolo Piccione](https://www.ime.usp.br/~piccione/), and [Reinaldo Resende](https://www.math.cmu.edu/~rresende/).
+I'm a mathematician moving into data and operational risk in finance. My doctoral work is about breaking down complex problems, building models that hold up, and getting the reasoning across clearly — the same skill set behind mapping a process end to end, catching what doesn't add up in the data, and keeping it clean.
 
-From January to July 2025 I was a visiting PhD student at [Carnegie Mellon University](https://www.cmu.edu/) supervised by [Reinaldo Resende](https://www.math.cmu.edu/~rresende/). From January to June 2026, I'll be at the [Scuola Normale Superiore](https://www.sns.it/it) supervised by [Luigi Ambrosio](https://cvgmt.sns.it/person/3/).
+I'm a Ph.D. candidate in Mathematics at the Federal University of ABC (UFABC), with my defense scheduled for September 2026, and I've carried out research periods at [Carnegie Mellon University](https://www.cmu.edu/) (2025) and the [Scuola Normale Superiore di Pisa](https://www.sns.it/it) (2026). What my background taught me is something I see as central to this kind of work: before chasing a solution, you have to understand what the right problem actually is — separating a meaningful pattern from noise and thinking systematically about how a process really works.
 
-# Research interests
+I'm making this move deliberately, and I'm actively building the day-to-day toolkit the work calls for — Python (pandas) and SQL — to pair with the analytical foundation in statistics, probability, and modeling I already have.
 
-- Geometric Measure Theory
-- Riemannian Geometry
+Much of my recent research has been in regularity theory — studying when and where the solutions to a problem stay well-behaved, and precisely where they can break down. That instinct, for finding the exact conditions under which a system holds together and the points where it fails, is what draws me to operational risk: making the failure points of a process visible before they become a problem.
 
-As an undergraduate, I studied geometric probability, integral geometry and stereology in Euclidean space. Additionally, I studied the homology of surfaces and an introduction to algebraic topology. After that, my Master's dissertation was about the isoperimetric inequality in the Cartan-Hadamard manifolds and the Aubin's conjecture. 
+See my [Projects]({{ site.baseurl }}/projects/) for hands-on work, and my [Publications]({{ site.baseurl }}/publications/) for peer-reviewed research.
 
-Currently, during my PhD, I am studying Allard's Interior and Boundary Epsilon Regularity Theorem and the regularity at the boundary of $Q$-valued functions.
-
-For a detailed version of my curriculum, see [here]({{ site.baseurl }}/files/CV.pdf). A detailed version of my Statement of Research Interests (SRI) is available upon request.
+Here is my detailed [CV]({{ site.baseurl }}/files/CV.pdf).
