@@ -31,4 +31,4 @@ Much of my recent research has been in **regularity theory** — studying when a
 - Python (pandas) and SQL for day-to-day data work
 - Applied, hands-on skills in operational risk and market infrastructure
   
-See my [Projects]({{ site.baseurl }}/projects/) for hands-on work, and my [Publications]({{ site.baseurl }}/publications/) for peer-reviewed research. For a detailed CV, see [here]({{ site.baseurl }}/files/CV.pdf).
+See my <!--  [Projects]({{ site.baseurl }}/projects/) for hands-on work, and my -->[Publications]({{ site.baseurl }}/publications/) for peer-reviewed research. For a detailed CV, see [here]({{ site.baseurl }}/files/CV.pdf).
