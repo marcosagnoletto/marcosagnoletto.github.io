@@ -15,7 +15,7 @@ Much of my recent research has been in **regularity theory** — studying when a
  
 ## Background
  
-- **Ph.D. in Mathematics**, Federal University of ABC (UFABC) — defense scheduled for September 2026
+- **Ph.D. in Mathematics**, Federal University of ABC (UFABC) — defense scheduled for October 2026
 - **Visiting Doctoral Researcher**, Scuola Normale Superiore di Pisa (2026)
 - **Visiting Doctoral Researcher**, Carnegie Mellon University (2025)
   
