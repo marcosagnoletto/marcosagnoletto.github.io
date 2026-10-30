@@ -7,20 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-$\newcommand{\arxiv}{\text{arX}\kern-.1em\raise-.4ex\hbox{\textstyle i}\kern-.1em\text{v}}$
-
 # Preprints
 1. _The generalized Cartan-Hadamard conjecture_<br>
 (with M. F. Da Silva, S. Nardulli, and R. Resende)<br>
-\[[\arxiv](https://arxiv.org/abs/2610.37817)\]
+\[[ArXiv](https://arxiv.org/abs/2610.37817)\]
 
 1. _A proof of the Cartan-Hadamard conjecture for small volumes under a Ricci curvature lower bound_<br>
 (with M. F. Da Silva, S. Nardulli, and R. Resende)<br>
-\[[arXiv](https://arxiv.org/abs/2609.17093)\]
+\[[ArXiv](https://arxiv.org/abs/2609.17093)\]
 
 1. _Allard's interior $\varepsilon$-Regularity Theorem in Alexandrov spaces_<br>
 (with J. C. Correa Hoyos, M. F. Da Silva, and S. Nardulli)<br>
-\[[arXiv](https://arxiv.org/abs/2504.10758)\]
+\[[ArXiv](https://arxiv.org/abs/2504.10758)\]
    
 
 # Academic Works
